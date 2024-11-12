@@ -40,7 +40,7 @@ To run the automata locally, follow these steps:
    ```
 2. **Run the automata:** Navigate to the src/ directory and run the desired automaton script:
    ```bash
-   python automaton_l1.py
+   python automatonL1.py
    ```
 
 ## Usage
